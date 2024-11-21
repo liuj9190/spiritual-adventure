@@ -182,7 +182,7 @@
         result: "測驗分析：好奇心是通向全新可能性的鑰匙，讓你在探索中感受生命的驚喜",
         productImage: "product5.jpg",
         description: "《逆習慣：好奇心改變一切》",
-        link: "https://www.morningstar.com.tw/bookinfo.aspx?bookno=0714091"
+        link: "https://www.morningstar.com.tw/bookinfo.aspx?bookno=0714191"
     },  
     {
         result: "測驗分析：每一次的困惑，都是內心力量升級的機會，幫助你突破限制",
